@@ -8,6 +8,7 @@ Also implementation allows for explicit control while maintaining backward compa
 The code also includes a basic check to ensure the specified container platform is actually available on the system.
 
 ### Summary : 
+
 1. Added a new command-line argument --container_platform with choices "docker", "singularity", and "apptainer"
 2. Modified the container engine detection logic to prioritize the explicitly specified platform
 3. There is a  validation to check if the specified container engine is available in PATH
