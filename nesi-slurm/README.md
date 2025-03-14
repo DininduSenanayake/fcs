@@ -1,4 +1,4 @@
-# Fetch the modiified `fcs.py` script 
+# Fetch the modified `fcs.py` script 
 
 ```bash
 curl -LO https://raw.githubusercontent.com/DininduSenanayake/fcs/refs/heads/main/dist/fcs.py
